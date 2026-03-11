@@ -5,9 +5,9 @@ lee_xiujiang@163.com
 ===============================================================================
 
 /data   
-fBm_series.csv - fbm series the first 1000 pieces of data）fBm_series.csv—fbm系列（前1000条数据）
+fBm_series.csv - fbm series the first 1000 pieces of data）fBm_series.csv—fbm系列（前1000条数据）fBm_series.csv - fbm series the first 1000 pieces of data）fBm_series.csv—fbm系列（前1000条数据）
 SSEC_1.xlsx  - SSEC 1 mins close priceSSEC_1.xlsx - SSEC 1分钟收盘价
-"Due to the large volume/size of the spectral data, I have uploaded it to Google Drive. You can download it via the following link: (Link here)"
+"Due to the large volume/size of the spectral data, I have uploaded it to Google Drive. You can download it via the following link:https://drive.google.com/drive/folders/1d9XxONiKsKvzSQBypnnrXld5Q5fx8ZiF?usp=drive_link."
 /SSEC
 Program of SSEC (apart from spectral rigidity)
 /fBm
